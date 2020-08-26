@@ -1,10 +1,10 @@
 ### 👋 Olá Mundo ### Hello World 👋 ### 
 
-
-
 <hr>
 
-💻 Stacks => Dev, Digital Security, Tester, Computer Web, Servers Virtualizations and Cloud 💻
+###  💻 Especializações => Dev, Digital Security, Tester, Computer Web, Servers Virtualizations and Cloud ###  
+
+### ⚡ Stacks Adquiridas... ### 
 
 <hr>
 
@@ -38,6 +38,12 @@
 
 <hr>
 
+### 📘 Stacks em Aquisição... ### 
+
+📘 Python, Ionic, Fluter, Angular, C++, Flutter e Shell Script (Bash)
+
+<hr>
+
 📫 https://offboard.com.br
 
 <hr>
@@ -64,3 +70,5 @@
 <img align="right" height="50" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-20-448281.png" style="max-width:100%;">
 
 <img align="right" height="50" src="https://cdn.auth0.com/blog/logos/vuejs-logo.png" style="max-width:100%;">
+
+<img align="right" height="50" src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" style="max-width:100%;">
