@@ -1,5 +1,7 @@
 ### 👋 Olá Mundo ### Hello World 👋 ### 
 
+
+
 <hr>
 
 💻 Stacks => Dev, Digital Security, Tester, Computer Web, Servers Virtualizations and Cloud 💻
@@ -44,3 +46,15 @@
 ### 🚀 Nós sempre nos definimos pela capacidade de superar o impossível - Interestelar ###
 
 <hr>
+
+<img align="right" height="25" src="https://camo.githubusercontent.com/5ffc0bad36a1136cb56ea1df57e5dc76ad2624e5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f6a6176617363726970742d686f72697a6f6e74616c2e737667" style="max-width:100%;">
+
+<img align="right" height="25" src="https://camo.githubusercontent.com/55c4a3eedecf425cfaebfa9d589283d2a95dfecb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e75782f6c696e75782d617232312e737667" style="max-width:100%;">
+
+<img align="right" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;">
+
+<img align="right" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;">
+
+<img align="right" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
+
+<img align="right" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
