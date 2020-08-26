@@ -40,7 +40,7 @@
 
 <hr>
 
-### 🚀 Sob a Luz do nosso novo Sol - Interestelar 🚀  ###
-### 🚀 Nós sempre nos definimos pela capacidade de superar o impossível - Interestelar 🚀 ###
+### 🚀 Sob a Luz do nosso novo Sol - Interestelar  ###
+### 🚀 Nós sempre nos definimos pela capacidade de superar o impossível - Interestelar ###
 
 <hr>
