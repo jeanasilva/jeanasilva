@@ -40,7 +40,7 @@
 
 ### 📘 Stacks em Aquisição... ### 
 
-📘 Python, Ionic, Fluter, Angular, C++, Flutter e Shell Script (Bash)
+📘 Python, Ionic, Angular, C++, Flutter e Shell Script (Bash)
 
 <hr>
 
