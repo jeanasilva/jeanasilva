@@ -48,13 +48,13 @@ Sites Desenvolvidos em Wordpress/Portfolio:
 
 📫 https://offboard.com.br
 
-📫 https://ateliedosorriso.net/
+📫 https://ateliedosorriso.net
 
-📫 https://cartoriosdeprotestoam.org.br/
+📫 https://cartoriosdeprotestoam.org.br
 
-📫 https://stoneativos.com.br/
+📫 https://stoneativos.com.br
 
-📫 https://4riprotestomanaus.com.br/ => Em Construção
+📫 https://4riprotestomanaus.com.br => Em Construção
 
 Fale Comigo:
 
