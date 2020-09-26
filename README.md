@@ -2,7 +2,7 @@
 
 <hr>
 
-###  💻 Especializações => Dev, Digital Security, Tester, Computer Web, Servers Virtualizations and Cloud ###  
+###  💻 Especializações => Dev, Webdesign e Web Developer, Digital Security, Tester, Computer Web, Servers Virtualizations and Cloud ###  
 
 ### ⚡ Stacks Adquiridas... ### 
 
@@ -44,7 +44,18 @@
 
 <hr>
 
+Sites Desenvolvidos em Wordpress/Portfolio:
+
 📫 https://offboard.com.br
+📫 https://ateliedosorriso.net/
+📫 https://cartoriosdeprotestoam.org.br/
+📫 https://stoneativos.com.br/
+📫 https://4riprotestomanaus.com.br/ => Em Construção
+
+Fale Comigo:
+
+WhatsApp: https://wa.me/message/OJYMGPGGE5QAK1
+Telegram: https://t.me/offboard_tecnologia
 
 <hr>
 
