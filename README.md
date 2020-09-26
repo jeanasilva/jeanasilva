@@ -62,6 +62,8 @@ WhatsApp: https://wa.me/message/OJYMGPGGE5QAK1
 
 Telegram: https://t.me/offboard_tecnologia
 
+Linkedln: https://www.linkedin.com/in/jeansilvaa/
+
 <hr>
 
 ### 🚀 Sob a Luz do nosso novo Sol - Interestelar  ###
