@@ -19,7 +19,7 @@
    ## 
   <h4 align="left"> 
     <g-emoji class="g-emoji" alias="orange_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d9.png">📙</g-emoji>
-    FrameWorks
+    FrameWorks - CMS
   </h4>
    <div align="left"> 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank">
