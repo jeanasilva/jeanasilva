@@ -1,4 +1,4 @@
-## Hi my name is Jean Silva - Software Developer Full Stack | Web Design | Virtualization and Cloud Cyber
+<div align="center"> <h2> Hi my name is Jean Silva - Software Developer Full Stack | Web Design | Virtualization and Cloud Cyber </h2></div>
 
 <div align="center">
   <a href="https://github.com/jeanasilva">
