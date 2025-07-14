@@ -1,106 +1,133 @@
-<!-- Profile README de Jean Silva -->
-<!-- Atualizado em 14/07/2025 -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Jean+Silva;Full-Stack+Software+Developer+%7C+Web+Designer+%7C+Cloud+%26+Virtualization+Enthusiast" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a1a1a,50:4b0082,100:000000&section=header"/>
 </p>
 
 <div align="center">
-  <a href="https://github.com/jeanasilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanasilva&layout=compact&langs_count=8&theme=dark"/>
-  </a>
+  <h1 style="font-size: 3em; font-weight: bold;">Jean A. Silva</h1>
+  <p style="font-size: 1.2em;">
+    <strong>Desenvolvedor Full-Stack</strong> especializado em criar soluções digitais inovadoras com tecnologias modernas e integração de IA.
+  </p>
 </div>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+<p>
+  Desenvolvedor Full-Stack com <strong>+5 anos de experiência</strong>, apaixonado por transformar desafios de negócio em soluções de software robustas, escaláveis e de alta performance. Meu propósito é unir visão técnica e proatividade para entregar tecnologia que gera resultados reais.
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeanasilva&style=flat-square&color=blue" alt="Visitas no perfil"/>
+  <img src="https://img.shields.io/badge/5%2B-Anos%20de%20Experiência-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptMS0xNEg5djdsNS4yNSAzLjE1TDEzIDE4bC00LTItMS0xVjhoNnYyem0yLTJoLTJ2Mmgydi0yeiIvPjwvc3ZnPg==" alt="5+ Anos de Experiência"/>
+  <img src="https://img.shields.io/badge/10%2B-Clientes%20Satisfeitos-indigo?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptMy41LTkuNUw5LjUgNi41bC0xLjUgMS41TDEyIDEyLjVsNC41IDQuNSA0LjUtNC41LTEuNS0xLjV6Ii8+PC9zdmc+" alt="10+ Clientes Satisfeitos"/>
+  <img src="https://img.shields.io/badge/6%2B-Projetos%20em%20Destaque-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDZoMThWNGgtMTh2MnptMCA1djRoMThWOGgtMTh6bTAgN2g4djRoMHYtNGg4djRoMHYtNGg4djRoMHYtNGg4di0yaC0xOHYyek00IDE4aDE4djJoLTE4di0yeiIvPjwvc3ZnPg==" alt="6+ Projetos em Destaque"/>
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+### 🚀 Projetos em Destaque
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jean.asilva)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeansoftware67@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeansilvaa)
+- **🏥 SoulBook (Healthcare Tech)**
+  - Plataforma médica completa com prontuário eletrônico, agendamentos e analytics.
+  - `Next.js 14` `NestJS` `TypeScript` `Framer Motion` `WhatsApp API`
 
----
+- **💬 Zap Finance (Finanças Pessoais)**
+  - Bot de controle de gastos via WhatsApp com dashboard web para relatórios.
+  - `NestJS` `TypeScript` `Docker` `Vercel` `WhatsApp API`
 
-## 🛠️ Tecnologias & Ferramentas
+- **💰 Zeus - Controle de Empréstimos (Fintech)**
+  - Sistema full-stack para gestão de empréstimos com frontend PWA e backend robusto.
+  - `Next.js` `NestJS` `MongoDB` `PWA` `JWT`
 
-### 🚀 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- **管理 Dashboard Euro (Gestão)**
+  - Sistema web para gestão de contratos, clientes e documentos com assinatura digital.
+  - `Next.js` `TypeScript` `Firebase` `Docker` `D4Sign`
 
-### 🔧 Back-End
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+- **🏛️ Cartórios de Protesto AM (Institucional)**
+  - Portal institucional desenvolvido em WordPress com tema customizado e hospedagem otimizada em VPS.
+  - `WordPress` `PHP` `VPS` `CyberPanel` `Cloudflare`
 
-### 🗄️ Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=ovh&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🧩 Frameworks & CMS
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-### 🛠️ Ferramentas de Desenvolvimento
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-
-### 📚 Em Aprendizado
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+- **💵 Stone Ativos (Fintech)**
+  - Fintech de recuperação de crédito com plataforma 100% digital e alta performance.
+  - `WordPress` `Fintech` `PHP` `VPS` `Cloudflare`
 
 ---
 
-## ⚡ Estatísticas Extras
+### 🛠️ Minhas Habilidades
 
-<details>
-  <summary>Clique para expandir</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeanasilva&theme=dark&layout=compact" alt="Wakatime Stats"/>
-  
-</details>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">Frontend</h4>
+      <p align="center"><i>Interfaces interativas com foco em UX, acessibilidade e performance otimizada.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">Backend</h4>
+      <p align="center"><i>APIs escaláveis com arquitetura limpa, segurança avançada e caching eficiente.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">DevOps & AI</h4>
+      <p align="center"><i>Infraestrutura automatizada e soluções de IA para pipelines inteligentes e escaláveis.</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Snake Contribution Graph
+### 🏢 Experiência Profissional
+<p align="center">
+  <a href="https://www.linkedin.com/company/fit-instituto-de-tecnologia/" target="_blank"><img src="https://img.shields.io/badge/FIT-004680?style=flat&logo=linkedin" alt="FIT"></a>&nbsp;
+  <a href="https://www.linkedin.com/company/lgnscns/" target="_blank"><img src="https://img.shields.io/badge/LG%20CNS-d9002d?style=flat&logo=lg" alt="LG CNS"></a>&nbsp;
+  <a href="https://www.linkedin.com/company/bemol/" target="_blank"><img src="https://img.shields.io/badge/Bemol%20Digital-00a0e3?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDBBMEUzIiBkPSJNNjQgMEMyOC42NSAwIDAgMjguNjUgMCA2NHMyOC42NSA2NCA2NCA2NCA2NC0yOC42NSA2NC02NFM5OS4zNSAwIDY0IDB6bS00LjE2IDEwMS4zN0wzNC4wMyA2My45MWw0Mi41LTM1Ljg0aDE2LjYybC00Mi41IDM1Ljg0IDI1LjgxIDM3LjQ2SDEzLjI1bDIwLjc4LTMwLjEyIDM0LjgyIDI5LjMxSDU5Ljg0eiIvPjwvc3ZnPg==" alt="Bemol Digital"></a>&nbsp;
+  <a href="https://www.linkedin.com/school/uninorte/" target="_blank"><img src="https://img.shields.io/badge/UniNorte-f37021?style=flat&logo=linkedin" alt="UniNorte"></a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanasilva/jeanasilva/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribuições animadas" src="https://raw.githubusercontent.com/jeanasilva/jeanasilva/output/github-contribution-grid-snake.svg" />
-</picture>
+---
+
+### 💬 Vamos Conversar?
+<p align="center">
+  Tem uma ideia ou projeto em mente? Adoraria ouvir sobre isso. Vamos criar algo incrível juntos.
+</p>
+<p align="center">
+  <a href="https://jeansilva.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Acesse_meu_Portfólio-4b0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTIuNDYtOS41M0w3LjEgOS4xMmwxMC41MyAzLjU0LTMuNTQgMTAuNTMtMy4zNC0yLjQ1em0uMS4xTDE0LjggMTQuOGwtNC4yNCAxLjQyTDEwLjY0IDEwbDEuNTIgMy4wNnoiLz48L3N2Zz4="></a>
+  <a href="https://www.linkedin.com/in/jeansilvaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5592992517862?text=Olá,%20Jean!%20Vi%20seu%20portfólio%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeanasilva&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanasilva&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanasilva&theme=dracula&hide_border=true" alt="Activity Graph" width="100%"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/jeanasilva/jeanasilva/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:4b0082,100:1a1a1a&section=footer"/>
+</p>
