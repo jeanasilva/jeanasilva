@@ -1,0 +1,37 @@
+# Gera o SVG animado “snake” com o seu gráfico de contribuições
+# Roda todo dia às 00 h UTC e também quando você clicar em “Run workflow”
+
+name: Gerar Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'          # diário, 00:00 UTC
+  workflow_dispatch:              # execução manual
+
+permissions:
+  contents: write                 # libera push no branch `output`
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # cria o(s) SVG(s)
+      - name: Gerar SVG
+        uses: Platane/snk@v3       # ação oficial
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # publica no branch `output`
+      - name: Publicar em output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
