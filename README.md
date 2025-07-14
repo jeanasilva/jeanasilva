@@ -12,7 +12,6 @@
   </a>
 </div>
 
-<!-- Contador de visitas -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jeanasilva&style=flat-square&color=blue" alt="Visitas no perfil"/>
 </div>
@@ -32,8 +31,8 @@
 ### 🚀 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
@@ -92,20 +91,16 @@
 
 <details>
   <summary>Clique para expandir</summary>
-
-  <!-- Wakatime só funciona se você usar o plugin e o username estiver correto -->
+  
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeanasilva&theme=dark&layout=compact" alt="Wakatime Stats"/>
   
-  <!-- Se não aparecer, confira se o username está correto e se você já usou o Wakatime em algum projeto público. -->
-
 </details>
 
 ---
 
 ## 🐍 Snake Contribution Graph
 
-
-<!-- Snake Contribution Graph -->
-<img alt="snake gif" src="https://github.com/jeanasilva/jeanasilva/blob/output/github-contribution-grid-snake.svg" />
-
-<!-- Caso o snake não apareça, rode o workflow manualmente em 'Actions' > 'Gerar Snake' > 'Run workflow'. Aguarde alguns minutos e recarregue a página. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanasilva/jeanasilva/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribuições animadas" src="https://raw.githubusercontent.com/jeanasilva/jeanasilva/output/github-contribution-grid-snake.svg" />
+</picture>
