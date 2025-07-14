@@ -92,13 +92,20 @@
 
 <details>
   <summary>Clique para expandir</summary>
+
+  <!-- Wakatime só funciona se você usar o plugin e o username estiver correto -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeanasilva&theme=dark&layout=compact" alt="Wakatime Stats"/>
   
-  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeanasilva&theme=dark&layout=compact)
-  
+  <!-- Se não aparecer, confira se o username está correto e se você já usou o Wakatime em algum projeto público. -->
+
 </details>
 
 ---
 
 ## 🐍 Snake Contribution Graph
 
-![snake gif](https://github.com/jeanasilva/jeanasilva/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Snake Contribution Graph -->
+<img alt="snake gif" src="https://github.com/jeanasilva/jeanasilva/blob/output/github-contribution-grid-snake.svg" />
+
+<!-- Caso o snake não apareça, rode o workflow manualmente em 'Actions' > 'Gerar Snake' > 'Run workflow'. Aguarde alguns minutos e recarregue a página. -->
