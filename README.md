@@ -227,16 +227,99 @@ Solução para prontuário eletrônico, agendamento, comunicação e analytics v
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub em números
+
+> Alguns cards externos de estatísticas podem falhar temporariamente por limite de requisições, cache do GitHub ou instabilidade dos serviços de terceiros. Por isso, mantive esta seção leve e com links diretos para o perfil e repositórios.
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeanasilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanasilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanasilva&theme=tokyo-night&hide_border=true" width="100%"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/jeanasilva/jeanasilva/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <a href="https://github.com/jeanasilva?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/jeanasilva?tab=stars">
+    <img src="https://img.shields.io/badge/Projetos%20favoritos-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/jeanasilva?tab=followers">
+    <img src="https://img.shields.io/badge/Conexões%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanasilva&style=for-the-badge&color=2563eb&label=VISITAS+NO+PERFIL" />
+</div>
+
+---
+
+## 🧭 Navegação rápida
+
+<details open>
+  <summary><strong>🚀 O que eu entrego</strong></summary>
+
+<br/>
+
+* Desenvolvimento Full-Stack de ponta a ponta;
+* APIs REST/GraphQL escaláveis;
+* Sistemas SaaS e plataformas internas;
+* Dashboards, relatórios e áreas administrativas;
+* Integrações com serviços externos, WhatsApp, filas e eventos;
+* Modernização de sistemas legados;
+* Otimização de banco de dados, queries, índices e caching;
+* Deploy, Docker, CI/CD e ambientes cloud;
+* Soluções com IA aplicada, RAG, agentes e automações.
+
+</details>
+
+<details>
+  <summary><strong>🧠 Como penso arquitetura</strong></summary>
+
+<br/>
+
+Gosto de construir sistemas com uma base simples, sustentável e preparada para evolução. Normalmente penso em:
+
+* separação clara entre domínio, aplicação, infraestrutura e interface;
+* APIs bem documentadas e previsíveis;
+* tratamento consistente de erros;
+* observabilidade com logs estruturados;
+* caching quando resolve gargalos reais;
+* filas/eventos quando há processamento assíncrono;
+* banco de dados modelado para consulta, manutenção e escala;
+* deploy automatizado e ambientes reproduzíveis com Docker.
+
+</details>
+
+<details>
+  <summary><strong>📌 Tipos de projeto em que posso ajudar</strong></summary>
+
+<br/>
+
+* MVPs SaaS;
+* sistemas administrativos;
+* plataformas de RH/performance;
+* integrações com ERPs, CRMs e APIs externas;
+* bots e automações via WhatsApp;
+* dashboards e analytics;
+* refatoração de sistemas legados;
+* backend de alta performance;
+* aplicações com IA generativa e busca semântica;
+* sustentação e evolução de sistemas existentes.
+
+</details>
+
+<details>
+  <summary><strong>🧩 Stacks que mais uso no dia a dia</strong></summary>
+
+<br/>
+
+```txt
+Frontend: Vue.js, Nuxt.js, React, Next.js, Angular, TypeScript, Tailwind CSS, Ant Design
+Backend:  Laravel, PHP, Node.js, NestJS, Java, Spring Boot, Python, FastAPI, .NET
+Dados:    PostgreSQL, MySQL, Oracle PL/SQL, SQL Server, MongoDB, Redis
+Cloud:    AWS, GCP, Huawei Cloud, Docker, Kubernetes, GitHub Actions, Jenkins
+IA:       LLMs, RAG, LangChain, Pinecone, Weaviate, OCR, Document AI, agentes
+```
+
+</details>
 
 ---
 
